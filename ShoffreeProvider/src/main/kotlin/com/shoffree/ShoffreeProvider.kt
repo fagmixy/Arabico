@@ -12,7 +12,7 @@ import android.util.Log
 
 class Shofree : MainAPI() {
     override var lang = "ar"
-    override var mainUrl = "https://shoffree.top"
+    override var mainUrl = "https://shoffree.cam"
     override var name = "Shoffree"
     override val usesWebView = false
     override val hasMainPage = true
