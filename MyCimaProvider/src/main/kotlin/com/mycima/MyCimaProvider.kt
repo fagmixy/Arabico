@@ -12,7 +12,7 @@ import android.util.Log
 
 class MyCima : MainAPI() {
     override var lang = "ar"
-    override var mainUrl = "https://wemycema.shop"
+    override var mainUrl = "https://cima.wecima.show"
     override var name = "MyCima"
     override val usesWebView = false
     override val hasMainPage = true
